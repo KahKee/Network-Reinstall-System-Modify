@@ -8,7 +8,7 @@
 ## Technical support is provided by the CXT (CXTHHHHH.com). (based on the original version of Vicer)
 
 ## Magic Modify version author:
-## Default root password: cxthhhhh.com
+## Default root password: 163mail
 ## WebSite: https://www.cxthhhhh.com
 ## Written By CXT (CXTHHHHH.com)
 
@@ -360,7 +360,7 @@ fi
 
 [ -n "$ipAddr" ] && [ -n "$ipMask" ] && [ -n "$ipGate" ] && setNet='1';
 [[ -n "$tmpWORD" ]] && myPASSWORD="$(openssl passwd -1 "$tmpWORD")";
-[[ -z "$myPASSWORD" ]] && myPASSWORD='$1$UIl1uSg0$tAW9qjOqoCto0CIUgUwHT1';
+[[ -z "$myPASSWORD" ]] && myPASSWORD='$1$Q73gpwLX$9qkDzLzo4i5ht2iPuxl8Z0';
 
 if [[ -n "$interface" ]]; then
   IFETH="$interface"

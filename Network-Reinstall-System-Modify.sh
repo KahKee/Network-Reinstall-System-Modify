@@ -8,7 +8,7 @@
 ## Technical support is provided by the CXT (CXTHHHHH.com). (based on the original version of Vicer)
 
 ## Magic Modify version author:
-## Default root password: cxthhhhh.com
+## Default root password: My 163mail
 ## WebSite: https://www.cxthhhhh.com
 ## Written By CXT (CXTHHHHH.com)
 
